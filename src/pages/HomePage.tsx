@@ -116,8 +116,7 @@ export default function HomePage() {
       {/* ── Marquee genre ticker ──────────────────────── */}
       <div className="w-full bg-wine py-3 overflow-hidden">
         <div
-          className="flex whitespace-nowrap gap-12 text-white/80 text-xs font-700 uppercase tracking-[0.15em]"
-          className="flex animate-marquee whitespace-nowrap"
+          className="flex whitespace-nowrap gap-12 text-white/80 text-xs font-700 uppercase tracking-[0.15em] flex animate-marquee whitespace-nowrap"
         >
           {[...Array(3)].flatMap(() =>
             Object.values(GENRES).map((g, i) => (

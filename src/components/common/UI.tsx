@@ -98,12 +98,13 @@ export function Modal({ open, onClose, title, children, maxWidth = 'max-w-xl' }:
 }
 
 // ── Form Field ────────────────────────────────────────
-export function Field({ label, children, hint }: { label: string; children: React.ReactNode; hint?: string }) {
+export function Field({ label, children, hint,className }: { label: string; children: React.ReactNode; hint?: string, className?: string;}) {
   return (
-    <div>
+    <div className={className}>
       <label className="input-label">{label}</label>
       {children}
       {hint && <p className="text-xs text-charcoal-500 mt-1">{hint}</p>}
     </div>
   );
 }
+
