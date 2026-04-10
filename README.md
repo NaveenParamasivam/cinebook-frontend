@@ -9,9 +9,9 @@
 
 | Resource | URL |
 |----------|-----|
-| 🌍 **Live App** | `https://your-frontend-url.vercel.app` |
+| 🌍 **Live App** | `https://cinebookfe.netlify.app/` |
 | 🔧 **Backend Repo** | [cinebook-backend](https://github.com/NaveenParamasivam/cinebook-backend) |
-| 🌐 **Backend API** | `https://your-backend-url.onrender.com/api` |
+| 🌐 **Backend API** | `https://cinebook-backend-production.up.railway.app/api` |
 
 ---
 
@@ -200,11 +200,7 @@ cinebook-frontend/
 - 🏟️ **Theaters CRUD** — Define rows × seats per row; total seats auto-calculated
 - 📅 **Shows Management** — Assign movie + theater + date/time + price; seats auto-generated
 
-### Design
-- 🌑 **Dark theme** — Deep dark background (`#0a0a0f`) with orange accent (`#f97316`)
-- ✨ **Framer Motion** — Page transitions, card hover lift, modal animations
-- 💀 **Skeleton loaders** — Shimmer placeholders while data loads
-- 📱 **Fully responsive** — Mobile-first, works on all screen sizes
+
 
 ---
 
