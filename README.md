@@ -18,9 +18,9 @@
 ## 🎥 Walkthrough
 
 ### Full App Demo
-> _Add a 1–2 min GIF or screen recording of the full user flow_
 
-<!-- ![App Walkthrough](docs/walkthrough.gif) -->
+
+![App Walkthrough](screenshots/walkthrough.gif)
 
 ---
 
@@ -29,83 +29,83 @@
 ### 🏠 Home Page — Browse Movies
 > _Browse all movies, filter by genre, search by title_
 
-<!-- ![Home Page](docs/screenshots/home.png) -->
+![Home Page](screenshots/home.png)
 
 ---
 
 ### 🎬 Movie Detail Page — Showtimes & Date Picker
 > _View movie info, pick a date, select a showtime_
 
-<!-- ![Movie Detail](docs/screenshots/movie-detail.png) -->
+![Movie Detail](screenshots/movie-detail.gif)
 
 ---
 
 ### 💺 Seat Selection — Interactive Seat Map
 > _Real-time seat availability, 10-minute lock on selection, live pricing_
 
-<!-- ![Seat Selection](docs/screenshots/seat-selection.png) -->
+![Seat Selection](screenshots/seat-selection.gif)
 
 ---
 
 ### 💳 Payment — Razorpay Checkout
 > _Secure payment via Razorpay popup_
 
-<!-- ![Payment](docs/screenshots/payment.png) -->
+![Payment](screenshots/payment.gif)
 
 ---
 
 ### 🎟️ Booking Confirmation — Ticket View
 > _Confirmed ticket with booking reference, perforated ticket design_
 
-<!-- ![Booking Ticket](docs/screenshots/booking-ticket.png) -->
+![Booking Ticket](screenshots/booking-ticket.png)
 
 ---
 
 ### 📋 Booking History — My Tickets
 > _All past bookings with status badges (Confirmed / Cancelled / Pending)_
 
-<!-- ![Booking History](docs/screenshots/booking-history.png) -->
+![Booking History](screenshots/booking-history.png)
 
 ---
 
 ### 👤 Profile Page
 > _Edit profile, change password_
 
-<!-- ![Profile](docs/screenshots/profile.png) -->
+![Profile](screenshots/profile.png)
 
 ---
 
 ### 🔐 Login / Register Pages
 
-<!-- ![Login](docs/screenshots/login.png) -->
+![Login](screenshots/login.png)
 
 ---
 
 ### 🛡️ Admin Dashboard
 > _Stats overview — total movies, theaters, active shows, cities_
 
-<!-- ![Admin Dashboard](docs/screenshots/admin-dashboard.png) -->
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
 ---
 
 ### 🎞️ Admin — Movies Management (CRUD)
 > _Add, edit, delete movies with poster preview_
 
-<!-- ![Admin Movies](docs/screenshots/admin-movies.png) -->
+![Admin Movies](screenshots/admin-movies.png)
 
 ---
 
 ### 🏟️ Admin — Theaters Management (CRUD)
 > _Add theaters with row × seat layout, auto-calculates total seats_
 
-<!-- ![Admin Theaters](docs/screenshots/admin-theaters.png) -->
+![Admin Theaters](screenshots/admin-theaters.png)
 
 ---
 
 ### 📅 Admin — Shows Management
 > _Create showtimes, seats auto-generated from theater layout_
 
-<!-- ![Admin Shows](docs/screenshots/admin-shows.png) -->
+![Admin Shows](screenshots/admin-shows.png)
 
 ---
 
